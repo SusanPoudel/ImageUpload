@@ -7,4 +7,4 @@
 You can install the package via Composer:
 
 ```sh
-composer require yourusername/image-upload
+composer require susan/image-upload

@@ -1,5 +1,5 @@
 {
-    "name": "yourusername/image-upload",
+    "name": "susan/image-upload",
     "description": "A Laravel package for handling image uploads.",
     "type": "library",
     "require": {
